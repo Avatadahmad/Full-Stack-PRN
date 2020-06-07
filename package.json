@@ -1,0 +1,26 @@
+{
+  "name": "full-stack-prn",
+  "version": "1.0.0",
+  "description": "New App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avatadahmad/Full-Stack-PRN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avatadahmad/Full-Stack-PRN/issues"
+  },
+  "homepage": "https://github.com/Avatadahmad/Full-Stack-PRN#readme",
+  "dependencies": {
+    "concurrently": "^5.2.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "pg": "^8.2.1"
+  }
+}
